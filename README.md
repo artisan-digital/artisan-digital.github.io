@@ -1,2 +1,2 @@
 # artisan-digital.github.io
-http://artisan-digital.github.io
+https://artisan-digital.github.io/spaceblocks2018
