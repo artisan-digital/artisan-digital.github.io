@@ -1,2 +1,2 @@
 # artisan-digital.github.io
-https://artisan-digital.github.io/spaceblocks2018
+[Go to spaceblocks2018](https://artisan-digital.github.io/spaceblocks2018)
